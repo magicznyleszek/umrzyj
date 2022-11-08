@@ -1,0 +1,12 @@
+## TEAM
+
+Everything: Zefir Efemera
+Site: zefirefemera.xyz
+Email: zefirefemera@proton.me
+Location: CET Timezone
+
+## SITE
+
+Last update: 2022/11
+Language: Polski
+Software: Sublime Text 3

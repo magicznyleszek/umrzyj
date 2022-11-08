@@ -1,1 +1,1 @@
-# umrzyj
+# umrzyj.pl
